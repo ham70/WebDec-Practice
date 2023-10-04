@@ -1,0 +1,31 @@
+body{
+    background-image:url("monkepfp.jpg");
+}
+
+
+p{
+    font-family: Arial, serif;
+    font-weight: bold;
+    background-color: yellowgreen;
+}
+
+.classDash{
+    border-style:dashed;
+}
+
+.classVar{
+    border-top-style:solid;
+    border-right-style:dotted;
+    border-bottom-style:double;
+    border-left-style:outset;
+}
+
+#leftBox{
+    float: left;
+    border-style: solid;
+    background-color: blue;
+    #words{
+        color: red;
+    }
+}
+
