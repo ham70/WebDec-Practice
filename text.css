@@ -13,6 +13,10 @@ p{
     border-style:dashed;
 }
 
+.classBox{
+    border-style:solid;
+}
+
 .classVar{
     border-top-style:solid;
     border-right-style:dotted;
@@ -27,5 +31,11 @@ p{
     #words{
         color: red;
     }
+}
+
+.rightBox{
+    float: right;
+    border-style: double;
+    background-color: aqua;
 }
 
